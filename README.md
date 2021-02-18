@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sean. I am an avid coder, working with a host of different languages and technologies, but I specialize in Javascript. As a problem solver, in addition to devoting my time to my projects, you can find me practicing algorithms.
+My name is Sean. I am an avid coder, working with a host of different languages and technologies, specializing in Javascript. As a problem solver, in addition to devoting my time to my projects, you can find me practicing algorithms.
 
 - 🔭 I’m currently working on a cryptocurrency analyzer app
 - 🌱 I’m currently learning Node.js
