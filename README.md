@@ -4,7 +4,6 @@ My name is Sean. I am an avid coder, working with a host of different languages 
 
 - 🔭 I’m currently working on a cryptocurrency analyzer app
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on ...
 -    Check out my portfolio site: seantarzy.com
 
 <!--
