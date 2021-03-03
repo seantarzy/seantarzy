@@ -4,7 +4,7 @@ My name is Sean. I am an avid coder, working with a host of different languages 
 
 - 🔭 I’m currently working on a cryptocurrency analyzer app
 - 🌱 I’m currently learning Node.js
--    Check out my portfolio site: seantarzy.com
+-    Check out my portfolio site: (seantarzy.com)[seantarzy.com]
 
 <!--
 **seantarzy/seantarzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
